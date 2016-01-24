@@ -3,6 +3,7 @@
   - Futuristic test runner
   - https://github.com/bcoe/nyc
       - code coverage 
+      - https://coveralls.io
 - http://unmaintained.tech/
   - no maintainance intended 
 - https://github.com/gaearon/normalizr
