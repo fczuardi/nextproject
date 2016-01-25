@@ -9,5 +9,7 @@
   - no maintainance intended 
 - https://github.com/gaearon/normalizr
   - Normalizr takes JSON and a schema and replaces nested entities with their IDs, gathering all entities in dictionaries.
+- https://github.com/yelouafi/redux-saga
+  - An alternative Side Effect model for Redux applications.  
 - http://netflix.github.io/falcor/
   - A JavaScript library for efficient data fetching 
