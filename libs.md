@@ -8,3 +8,5 @@
   - no maintainance intended 
 - https://github.com/gaearon/normalizr
   - Normalizr takes JSON and a schema and replaces nested entities with their IDs, gathering all entities in dictionaries.
+- http://netflix.github.io/falcor/
+  - A JavaScript library for efficient data fetching 
