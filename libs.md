@@ -1,4 +1,5 @@
-
+- https://github.com/kimmobrunfeldt/howto-everything/blob/master/handling-environment-variables.md
+  - Environment vars
 - https://github.com/sindresorhus/ava
   - Futuristic test runner
   - https://github.com/bcoe/nyc
