@@ -1,5 +1,7 @@
 - https://github.com/kimmobrunfeldt/howto-everything/blob/master/handling-environment-variables.md
   - Environment vars
+- http://rollupjs.org/
+  - Browserify replacement? https://github.com/samccone/The-cost-of-transpiling-es2015-in-2016
 - https://github.com/sindresorhus/ava
   - Futuristic test runner
   - https://github.com/bcoe/nyc
