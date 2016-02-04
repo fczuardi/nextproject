@@ -18,3 +18,5 @@
   - A JavaScript library for efficient data fetching 
 - http://pm2.keymetrics.io/
   - screen de fresco
+- https://github.com/uber/ringpop-node
+  - pesquisar e entender melhor
