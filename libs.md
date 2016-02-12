@@ -1,3 +1,5 @@
+- https://codeclimate.com
+  - static analisys 
 - https://github.com/kimmobrunfeldt/howto-everything/blob/master/handling-environment-variables.md
   - Environment vars
 - http://rollupjs.org/
