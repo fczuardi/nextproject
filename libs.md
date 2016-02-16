@@ -1,3 +1,6 @@
+
+- http://www.arewewebyet.org/topics/
+  - for Rust experiments
 - https://github.com/egoist/testen
   - local travisCI?
 - http://cocoon.io/
