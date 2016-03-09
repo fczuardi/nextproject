@@ -1,3 +1,5 @@
+- https://github.com/pyupio/statuspage
+  - github hosted status page  
 - https://doclets.io/
   - jsdocs
 - http://primercss.io/
