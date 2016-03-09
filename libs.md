@@ -1,3 +1,5 @@
+- https://codecoachapp.com
+  - etherpad for pair programming
 - https://github.com/skizzehq/skizze
   - bd para estatisticas?
 - https://github.com/pyupio/statuspage
