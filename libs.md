@@ -1,3 +1,5 @@
+- https://github.com/reactjs/reselect
+  - to use with redux 
 - https://monkeytest.it
   - test websites 
 - https://codecoachapp.com
