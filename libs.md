@@ -1,3 +1,5 @@
+- https://github.com/dthree/cash
+  - similar to shell-js, to make shell scripts compatible with windows
 - https://github.com/reactjs/reselect
   - to use with redux 
 - https://monkeytest.it
