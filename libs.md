@@ -1,3 +1,5 @@
+- https://github.com/ptmt/react-native-desktop
+  - react native for desktop
 - https://github.com/dthree/cash
   - similar to shell-js, to make shell scripts compatible with windows
 - https://github.com/reactjs/reselect
