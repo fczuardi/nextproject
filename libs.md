@@ -1,3 +1,4 @@
+- yet another file change watcher: https://github.com/Qard/onchange
 - https://github.com/ptmt/react-native-desktop
   - react native for desktop
 - https://github.com/dthree/cash
